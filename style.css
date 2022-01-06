@@ -1,0 +1,28 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid white;
+}
+
+.small_image {
+    width: 100%;
+    float: left;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.shoe_image {
+    display: inline-block;
+    width: 45%;
+
+}
